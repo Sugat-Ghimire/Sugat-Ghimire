@@ -34,7 +34,7 @@ I'm passionate about building intuitive web apps, exploring cybersecurity, and c
 ---
 
 ## 🔥 Featured Projects
-- 🚀 **[TaskOptimy](https://github.com/Sugat-Ghimire/taskoptimy)** –Task management app with Eisenhower Matrix and Kanban board for efficient workflow management
+- 🚀 **[TaskOptimy](https://taskoptimy.vercel.app)** –Task management app with Eisenhower Matrix and Kanban board for efficient workflow management
 - 🎨 **[Chromanvas](https://github.com/Sugat-Ghimire/chromanvas)** –  A minimal canvas web app built with **Next.js** and **Fabric.js**.
 
 ---
