@@ -38,5 +38,6 @@ I'm passionate about building intuitive web apps, exploring cybersecurity, and c
 - 🎨 **[Chromanvas](https://github.com/Sugat-Ghimire/chromanvas)** –  A minimal canvas web app built with **Next.js** and **Fabric.js**.
 
 ---
-
+Feel free to reach out to me via email: **sugat1237@gmail.com**
+---
 ✨ _Let's build something amazing together!_
