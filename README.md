@@ -26,18 +26,20 @@ I'm passionate about building intuitive web apps, exploring cybersecurity, and c
 </p> 
 
 ---
+## 🔥 Featured Projects
+- 🚀 **[TaskOptimy](https://taskoptimy.vercel.app)** –Task management app with Eisenhower Matrix and Kanban board for efficient workflow management
+- 🎨 **[Chromanvas](https://chromanvas.vercel.app)** –  A minimal canvas web app built with **Next.js** and **Fabric.js**.
+- 🧠 **[careerR](https://career-recommendation-platform.vercel.app)** – An AI-powered career recommendation platform using Spring Boot, React, PostgreSQL, and Scikit-learn. 
 
+
+
+---
 ## 🌱 What I'm Doing
 -  **Building Full-Stack Applications with React & Next.js**
 -  **Exploring Cybersecurity & Secure Coding Practices**
 -  **Developing Optimized Task Management Solutions**
 ---
 
-## 🔥 Featured Projects
-- 🚀 **[TaskOptimy](https://taskoptimy.vercel.app)** –Task management app with Eisenhower Matrix and Kanban board for efficient workflow management
-- 🎨 **[Chromanvas](https://chromanvas.vercel.app)** –  A minimal canvas web app built with **Next.js** and **Fabric.js**.
-
----
 Feel free to reach out to me via email: **sugat1237@gmail.com**
 ---
 ✨ _Let's build something amazing together!_
