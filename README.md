@@ -29,7 +29,7 @@ I'm passionate about building intuitive web apps, exploring cybersecurity, and c
 ## 🔥 Featured Projects
 - 🚀 **[TaskOptimy](https://taskoptimy.vercel.app)** –Task management app with Eisenhower Matrix and Kanban board for efficient workflow management
 - 🎨 **[Chromanvas](https://chromanvas.vercel.app)** –  A minimal canvas web app built with **Next.js** and **Fabric.js**.
-- 🧠 **[careerR](https://career-recommendation-platform.vercel.app)** – An AI-powered career recommendation platform using Spring Boot, React, PostgreSQL, and Scikit-learn. 
+- 🧠 **[CareerR](https://career-recommendation-platform.vercel.app)** – An AI-powered career recommendation platform using Spring Boot, React, Next, PostgreSQL, Python and Scikit-learn. 
 
 
 
