@@ -40,6 +40,8 @@ I'm passionate about building intuitive web apps, exploring cybersecurity, and c
 -  **Developing Optimized Task Management Solutions**
 ---
 
-Feel free to reach out to me via email: **sugat1237@gmail.com**
+📬 Feel free to reach out to me via email at sugat1237@gmail.com
+---
+💬 You can also connect with me on Discord: sugat.dev
 ---
 ✨ _Let's build something amazing together!_
