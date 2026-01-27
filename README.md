@@ -1,4 +1,4 @@
-# Hi there, I'm sugat 👋
+# Hi there, I'm sugat 
 
 **🚀Full Stack Developer**
 
