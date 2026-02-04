@@ -1,6 +1,6 @@
 # Hi there, I'm sugat 
 
-**🚀Full Stack Developer**
+**Full Stack Developer**
 
 I'm passionate about building intuitive web apps, exploring cybersecurity, and constantly learning new technologies. Currently diving deeper into **full-stack development**. 
 
