@@ -6,7 +6,7 @@ I'm passionate about building intuitive web apps, exploring cybersecurity, and c
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
@@ -26,22 +26,22 @@ I'm passionate about building intuitive web apps, exploring cybersecurity, and c
 </p> 
 
 ---
-## 🔥 Featured Projects
-- 🚀 **[TaskOptimy](https://taskoptimy.vercel.app)** –Task management app with Eisenhower Matrix and Kanban board for efficient workflow management
-- 🎨 **[Chromanvas](https://chromanvas.vercel.app)** –  A minimal canvas web app built with **Next.js** and **Fabric.js**.
-- 🧠 **[CareerR](https://career-recommendation-platform.vercel.app)** – An AI-powered career recommendation platform using Spring Boot, React, Next, PostgreSQL, Python and Scikit-learn. 
+## Featured Projects
+-  **[TaskOptimy](https://taskoptimy.vercel.app)** –Task management app with Eisenhower Matrix and Kanban board for efficient workflow management
+-  **[Chromanvas](https://chromanvas.vercel.app)** –  A minimal canvas web app built with **Next.js** and **Fabric.js**.
+-  **[CareerR](https://career-recommendation-platform.vercel.app)** – An AI-powered career recommendation platform using Spring Boot, React, Next, PostgreSQL, Python and Scikit-learn. 
 
 
 
 ---
-## 🌱 What I'm Doing
+##  What I'm Doing
 -  **Building Full-Stack Applications with React & Next.js**
 -  **Exploring Cybersecurity & Secure Coding Practices**
 -  **Developing Optimized Task Management Solutions**
 ---
 
-📬 Feel free to reach out to me via email at sugat1237@gmail.com
+ Feel free to reach out to me via email at sugat1237@gmail.com
 ---
-💬 You can also connect with me on Discord: sugat.dev
+ You can also connect with me on Discord: sugat.dev
 ---
-✨ _Let's build something amazing together!_
+ _Let's build something amazing together!_
